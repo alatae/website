@@ -1,0 +1,4 @@
+baseURL = "https://alatae.com/"
+languageCode = "en-us"
+title = "Ada Lovelace & the Analytical Engines"
+theme = "changelog"
