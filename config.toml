@@ -1,4 +1,8 @@
+<<<<<<< Updated upstream
 baseURL = "https://alatae.com/"
+=======
+baseURL = "https://alatae.live/"
+>>>>>>> Stashed changes
 languageCode = "en-us"
 title = "Ada Lovelace & the Analytical Engines"
 theme = "archie"
