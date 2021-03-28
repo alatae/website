@@ -1,4 +1,13 @@
 baseURL = "https://alatae.com/"
 languageCode = "en-us"
 title = "Ada Lovelace & the Analytical Engines"
-theme = "changelog"
+theme = "archie"
+copyright = "© Elijah Scheele"
+
+[params]
+    mode="dark"
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/alatae"
