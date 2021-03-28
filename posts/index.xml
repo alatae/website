@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ada Lovelace &amp; the Analytical Engines</title>
-    <link>https://alatae.com/</link>
-    <description>Recent content on Ada Lovelace &amp; the Analytical Engines</description>
+    <title>Posts on Ada Lovelace &amp; the Analytical Engines</title>
+    <link>https://alatae.com/posts/</link>
+    <description>Recent content in Posts on Ada Lovelace &amp; the Analytical Engines</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Elijah Scheele</copyright>
-    <lastBuildDate>Sun, 28 Mar 2021 22:21:24 +0000</lastBuildDate><atom:link href="https://alatae.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Mar 2021 22:21:24 +0000</lastBuildDate><atom:link href="https://alatae.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello, world!</title>
       <link>https://alatae.com/posts/hello-world/</link>
